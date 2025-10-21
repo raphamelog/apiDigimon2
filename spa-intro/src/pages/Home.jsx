@@ -1,11 +1,11 @@
 import React from "react";
-import digimonList from "../components/digimonList";
+import DigimonList from "../components/digimonList";
 
 export default function Home () {
     return (
         <section>
             <h2> Digitransformações</h2>
-            <digimonList />        
+            <DigimonList />        
         </section>
     );
 }
